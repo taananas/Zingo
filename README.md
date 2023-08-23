@@ -51,10 +51,5 @@ iOS 16+, Swift, SwiftUI, Combine, Firebase, NukeUI, async/await
    
 
 
-   ## Author
-* [Bogdan Zykov](https://github.com/BogdanZyk)
-
 ## License
-
- Copyright 2022 Bogdan Zykov.
  [License MIT](https://opensource.org/licenses/MIT)
